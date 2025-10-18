@@ -1,4 +1,4 @@
-#  Deep Learning Project Portfolio: CNN Image Classification
+
 
 This repository showcases two foundational computer vision projects using **Convolutional Neural Networks (CNNs)** built with **TensorFlow/Keras**.  
 It demonstrates the full deep learning pipeline — from **data preprocessing** and **model design** to **training**, **evaluation**, and **performance analysis** — across datasets of increasing complexity.
